@@ -99,6 +99,10 @@
           <artifactId>sonar-maven-plugin</artifactId>
           <version>3.4.0.905</version>
       </plugin>
+      <properties>
+         <sonar.source>src</sonar.source>
+         <sonar.projectVersion>2</sonar.projectVersion>
+      </properties>
     </plugins>
   </build>
 
