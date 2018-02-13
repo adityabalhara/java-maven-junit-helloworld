@@ -13,6 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <sonar.host.url>http://internal-hcladityadevopspocsonarelb-792417101.eu-west-1.elb.amazonaws.com</sonar.host.url>
   </properties>
 
   <dependencies>
