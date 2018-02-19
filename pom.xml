@@ -16,6 +16,7 @@
     <sonar.host.url>http://internal-hcladityadevopspocsonarelb-792417101.eu-west-1.elb.amazonaws.com</sonar.host.url>
     <sonar.jacoco.itReportPath>target/jacoco-it.exec</sonar.jacoco.itReportPath>
     <maven.test.failure.ignore>false</maven.test.failure.ignore>
+    <sonar.java.binaries>target/classes</sonar.java.binaries>
   </properties>
 
   <dependencies>
